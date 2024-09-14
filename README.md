@@ -1,6 +1,7 @@
 # amazon-clone  
 cretaed thrugh html and css and various pictures downloades for google.
 start with index page to acess the website.
+
 ![Screenshot (2)](https://github.com/user-attachments/assets/16dfdcf7-c0fb-4a86-bc51-0680a152b537)
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/5bac97ae-eaea-4b62-bac0-836570dbdd9a)
